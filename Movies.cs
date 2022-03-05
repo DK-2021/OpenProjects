@@ -54,7 +54,7 @@ namespace Projects
             MyRanking = _myRanking;
             Genre = _genre;
         }
-        public static void Welcome()
+        public static void Welcome() // Call this
         {
             List<Movies> movieList = new List<Movies>();
             bool anotherEntry = true; //do-while condition
