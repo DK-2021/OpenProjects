@@ -186,6 +186,5 @@ namespace PracticeConsole
                 }
                 arr[j + 1] = currentIndex;
             }
-
         }
     }
